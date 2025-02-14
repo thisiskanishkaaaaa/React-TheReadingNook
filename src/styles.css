@@ -851,6 +851,7 @@ header p {
 
 .footer-bottom p {
   margin-top: 10px;
+    color: #000;
 }
 
 @media (max-width: 768px) {
